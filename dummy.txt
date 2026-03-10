@@ -1,0 +1,5 @@
+rearrange the app with clean code 
+- use Getx for state management 
+- https://dummyjson.com/users get data from this 
+- show data in View 
+- use di for dependency injection 
